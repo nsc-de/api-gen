@@ -11,7 +11,7 @@
     "@rster/common": "^0.1.7",
     "@rster/types": "^0.1.10",
     "debug": "^4.3.4",
-    "express": "^4.18.2"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.4",
